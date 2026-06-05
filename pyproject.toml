@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-ResolutionAndAspectRatio"
 version = "1.0.0"
-description = "ComfyUI node that converts megapixels + aspect ratio into width/height, with prompt-based ratio detection and randomization."
+description = "ComfyUI node that lets you set the aspect ratio with the prompt. Converts megapixels + aspect ratio into width/height, with prompt-based ratio detection and randomization."
 license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.9"
