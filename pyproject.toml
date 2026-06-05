@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-ResolutionAndAspectRatio"
+version = "1.0.0"
+description = "ComfyUI node that converts megapixels + aspect ratio into width/height, with prompt-based ratio detection and randomization."
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/YOUR_GITHUB_USERNAME/comfyui-ResolutionAndAspectRatio"
+Issues = "https://github.com/YOUR_GITHUB_USERNAME/comfyui-ResolutionAndAspectRatio/issues"
+
+[tool.comfy]
+PublisherId = "YOUR_GITHUB_USERNAME"
+DisplayName = "Smart Resolution"
+Icon = ""
+Tags = ["resolution", "aspect ratio", "utility", "dimensions"]

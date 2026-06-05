@@ -1,0 +1,199 @@
+[
+  {
+    "label": "anamorphic",
+    "words": [
+      "anamorphic"
+    ],
+    "ratios": [
+      "21:9"
+    ],
+    "weights": null,
+    "category": "limited"
+  },
+  {
+    "label": "imax",
+    "words": [
+      "imax"
+    ],
+    "ratios": [
+      "4:3"
+    ],
+    "weights": null,
+    "category": "limited"
+  },
+  {
+    "label": "ultrawide",
+    "words": [
+      "ultrawide"
+    ],
+    "ratios": [
+      "21:9",
+      "32:9"
+    ],
+    "weights": [
+      3,
+      1
+    ],
+    "category": "limited"
+  },
+  {
+    "label": "widescreen",
+    "words": [
+      "widescreen"
+    ],
+    "ratios": [
+      "16:9",
+      "19:9",
+      "21:9"
+    ],
+    "weights": [
+      3,
+      2,
+      1
+    ],
+    "category": "limited"
+  },
+  {
+    "label": "panoramic",
+    "words": [
+      "panorama",
+      "panoramic"
+    ],
+    "ratios": [
+      "16:9",
+      "19:9",
+      "21:9",
+      "32:9"
+    ],
+    "weights": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "category": "limited"
+  },
+  {
+    "label": "square",
+    "words": [
+      "square",
+      "avatar",
+      "thumbnail"
+    ],
+    "ratios": [
+      "1:1"
+    ],
+    "weights": null,
+    "category": "all"
+  },
+  {
+    "label": "mobile",
+    "words": [
+      "mobile",
+      "phone",
+      "smartphone"
+    ],
+    "ratios": [
+      "9:16",
+      "9:19",
+      "9:21"
+    ],
+    "weights": [
+      5,
+      2,
+      1
+    ],
+    "category": "all"
+  },
+  {
+    "label": "poster",
+    "words": [
+      "poster"
+    ],
+    "ratios": [
+      "2:3",
+      "3:4",
+      "4:5"
+    ],
+    "weights": [
+      3,
+      2,
+      1
+    ],
+    "category": "all"
+  },
+  {
+    "label": "cinematic",
+    "words": [
+      "cinematic"
+    ],
+    "ratios": [
+      "16:9",
+      "21:9",
+      "32:9"
+    ],
+    "weights": [
+      3,
+      2,
+      1
+    ],
+    "category": "all"
+  },
+  {
+    "label": "banner",
+    "words": [
+      "banner"
+    ],
+    "ratios": [
+      "16:9",
+      "21:9",
+      "32:9"
+    ],
+    "weights": [
+      2,
+      2,
+      3
+    ],
+    "category": "all"
+  },
+  {
+    "label": "wallpaper",
+    "words": [
+      "wallpaper"
+    ],
+    "ratios": [
+      "16:9",
+      "21:9",
+      "32:9"
+    ],
+    "weights": [
+      3,
+      2,
+      1
+    ],
+    "category": "all"
+  },
+  {
+    "label": "landscape",
+    "words": [
+      "landscape",
+      "horizontal",
+      "wide angle",
+      "wide shot"
+    ],
+    "ratios": "$LANDSCAPE",
+    "weights": null,
+    "category": "all"
+  },
+  {
+    "label": "portrait",
+    "words": [
+      "portrait",
+      "vertical",
+      "tall"
+    ],
+    "ratios": "$PORTRAIT",
+    "weights": null,
+    "category": "all"
+  }
+]
