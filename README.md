@@ -22,7 +22,7 @@ A ComfyUI custom node that converts a megapixel target and aspect ratio into pix
 **Manual:**
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_GITHUB_USERNAME/comfyui-ResolutionAndAspectRatio
+git clone https://github.com/dawncreatescode/comfyui-ResolutionAndAspectRatio
 ```
 
 Restart ComfyUI. The node appears under the **Resolution** category.
