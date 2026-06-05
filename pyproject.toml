@@ -13,6 +13,6 @@ Issues = "https://github.com/dawncreatescode/comfyui-ResolutionAndAspectRatio/is
 
 [tool.comfy]
 PublisherId = "dawncreatescode"
-DisplayName = "Smart Resolution"
+DisplayName = "Smart Aspect Ratio"
 Icon = ""
 Tags = ["resolution", "aspect ratio", "utility", "dimensions"]
