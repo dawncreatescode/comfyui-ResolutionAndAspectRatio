@@ -1,4 +1,4 @@
-# ComfyUI Smart Resolution
+# ComfyUI Smart Aspect Ratio
 
 A ComfyUI custom node that converts a megapixel target and aspect ratio into pixel dimensions (`width` × `height`). The ratio can be fixed, randomized, or **detected automatically from a connected prompt**.
 
