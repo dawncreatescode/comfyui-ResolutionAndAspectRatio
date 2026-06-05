@@ -8,11 +8,11 @@ requires-python = ">=3.9"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/YOUR_GITHUB_USERNAME/comfyui-ResolutionAndAspectRatio"
-Issues = "https://github.com/YOUR_GITHUB_USERNAME/comfyui-ResolutionAndAspectRatio/issues"
+Repository = "https://github.com/dawncreatescode/comfyui-ResolutionAndAspectRatio"
+Issues = "https://github.com/dawncreatescode/comfyui-ResolutionAndAspectRatio/issues"
 
 [tool.comfy]
-PublisherId = "YOUR_GITHUB_USERNAME"
+PublisherId = "dawncreatescode"
 DisplayName = "Smart Resolution"
 Icon = ""
 Tags = ["resolution", "aspect ratio", "utility", "dimensions"]
