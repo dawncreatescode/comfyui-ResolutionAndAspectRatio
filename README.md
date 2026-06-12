@@ -4,7 +4,7 @@ A ComfyUI custom node that converts a megapixel target and aspect ratio into pix
 
 Type `cinematic ultrawide city at night` and the node hands your latent a 21:9 resolution. Write `16:9` anywhere in the prompt and it obeys exactly. Or skip detection entirely and use it as a clean megapixels-plus-ratio resolution picker and/or randomize the aspect ratio for each run.
 
-![node screenshot](docs/nodeScreenShot.png)
+![node screenshot](nodeScreenShot.png)
 
 ---
 
